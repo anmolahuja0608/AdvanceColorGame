@@ -48,7 +48,7 @@ for(var j=0;j<square.length;j++){
      	}
      }
      else{
-     	p.textContent="sorry bro!! Try Again";
+     	p.textContent="sorry..!! Try Again";
      	this.style.background="#232323";
      }
 
